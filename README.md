@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate Personally.
 - 🤔 I’m looking for help from others.
 - 💬 Ask me about web or any teach-related information.
-- 📫 How to reach me:[Linkedin](https://www.linkedin.com/in/faius-mojumder-nahin/).
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/faius-mojumder-nahin/).
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: All time I am listening music.
 
