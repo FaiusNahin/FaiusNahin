@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hello 🤝, I am Faiu Nahin 👋
 
-<!--
-**FaiusNahin/FaiusNahin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Front End Web Development.
+- 🌱 I’m currently learning Backend technology
+- 👯 I’m looking to collaborate Personally.
+- 🤔 I’m looking for help from others.
+- 💬 Ask me about web or any teach-related information.
+- 📫 How to reach me:[Linkedin](https://www.linkedin.com/in/faius-mojumder-nahin/).
+- 😄 Pronouns: He/His.
+- ⚡ Fun fact: All time I am listening music.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api?username=FaiusNahin&&show_icons=true&title_color=ffffff&icon_color=cead82&text_color=daf7dc&bg_color=151515" />
