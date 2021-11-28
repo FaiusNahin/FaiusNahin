@@ -1,7 +1,7 @@
 ### Hello 🤝, I am Faiu Nahin 👋
 
 - 🔭 I’m currently working on Front End Web Development.
-- 🌱 I’m currently learning Backend technology
+- 🌱 I’m currently learning Frontend and Backend technology
 - 👯 I’m looking to collaborate Personally.
 - 🤔 I’m looking for help from others.
 - 💬 Ask me about web or any teach-related information.
