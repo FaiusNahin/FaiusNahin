@@ -1,4 +1,4 @@
-### Hello 🤝, I am Faiu Nahin 👋
+### Hello 🤝, I am Faius Nahin 👋
 
 - 🔭 I’m currently working on Front End Web Development.
 - 🌱 I’m currently learning Frontend and Backend technology
